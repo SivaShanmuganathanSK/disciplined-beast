@@ -12,7 +12,7 @@ function Products() {
                 <h4 className="fw-bold">🔥 Disciplined Beast eBook</h4>
                 <p className="flex-grow-1">Your ultimate guide to build discipline, mindset, and fitness in 30 days.</p>
                 <a
-                  href="https://drive.google.com/your-ebook-link"
+                  href="https://drive.google.com/file/d/1l4l9PdbAUyGVUaHBAZC6wg-FPGBhGfyS/view?usp=drive_link"
                   className="btn btn-light mt-auto"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -28,7 +28,7 @@ function Products() {
                 <h4 className="fw-bold">🎯 Book 1-on-1 Call</h4>
                 <p className="flex-grow-1">Personalized roadmap session to fix your routine, fitness & goals.</p>
                 <a
-                  href="https://forms.gle/your-google-form"
+                  href="https://forms.gle/ztcCSYhf4ksc6Zb16"
                   className="btn btn-light mt-auto"
                   target="_blank"
                   rel="noopener noreferrer"
