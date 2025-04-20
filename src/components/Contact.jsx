@@ -15,7 +15,7 @@ function Contact() {
               <textarea className="form-control" rows="5" placeholder="Your Message" required></textarea>
             </div>
             <div className="col-12 text-center">
-              <a href="href=sivashanmuganathan2306@gmail.com"> <button type="submit" className="btn btn-dark px-4">Send Message</button></a>
+              <a href="href=skplayboysiva@gmail.com"> <button type="submit" className="btn btn-dark px-4">Send Message</button></a>
               
             </div>
           </form>
