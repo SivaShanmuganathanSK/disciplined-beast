@@ -12,7 +12,7 @@ function Products() {
                 <h4 className="fw-bold">Premium Courses</h4>
                 <p className="flex-grow-1">All the paid courses for very low and effective prices.</p>
                 <a
-                  href=""
+                  href="https://t.me/disciplinedbeast_22"
                   className="btn btn-light mt-auto"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -27,7 +27,7 @@ function Products() {
                 <h4 className="fw-bold">My home gym setup</h4>
                 <p className="flex-grow-1">My first and best key to overcome my insecurities and build myself.</p>
                 <a
-                  href="https://forms.gle/ztcCSYhf4ksc6Zb16"
+                  href="https://amzn.to/44appP3"
                   className="btn btn-light mt-auto"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -42,7 +42,7 @@ function Products() {
                 <h4 className="fw-bold">How to turn on any girl</h4>
                 <p className="flex-grow-1">Shhh... The secret that no one want to tell you.</p>
                 <a
-                  href="https://forms.gle/ztcCSYhf4ksc6Zb16"
+                  href="https://t.me/disciplinedbeast_22"
                   className="btn btn-light mt-auto"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -57,7 +57,7 @@ function Products() {
                 <h4 className="fw-bold">Whey protein</h4>
                 <p className="flex-grow-1">The ultimate supplement for muscle growth and recovery.</p>
                 <a
-                  href="https://forms.gle/ztcCSYhf4ksc6Zb16"
+                  href="https://amzn.to/40fAYlq"
                   className="btn btn-light mt-auto"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -72,7 +72,7 @@ function Products() {
                 <h4 className="fw-bold">The way to get a TITAN ROD</h4>
                 <p className="flex-grow-1">Only book you need to read for growing your man hood.</p>
                 <a
-                  href="https://forms.gle/ztcCSYhf4ksc6Zb16"
+                  href="https://t.me/disciplinedbeast_22"
                   className="btn btn-light mt-auto"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -87,7 +87,7 @@ function Products() {
                 <h4 className="fw-bold">The gears I use</h4>
                 <p className="flex-grow-1">The ultimate cheatsheet for buying things for building muscle and strength.</p>
                 <a
-                  href="https://forms.gle/ztcCSYhf4ksc6Zb16"
+                  href="https://amzn.to/44appP3"
                   className="btn btn-light mt-auto"
                   target="_blank"
                   rel="noopener noreferrer"
